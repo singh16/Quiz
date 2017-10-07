@@ -28,4 +28,5 @@
 •	Quiz taker has only rights to see his/her score don’t have access to see others score as the admin have.
 
 
+![capture](https://user-images.githubusercontent.com/30786817/31311916-9d65d252-ab84-11e7-9bf8-7c8e80e69720.PNG)
 
